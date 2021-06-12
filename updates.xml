@@ -1,0 +1,36 @@
+<node>
+<patch> 
+<title>11.06.21 | 15:10 Uhr</title> 
+<desc>
+<font face='Tahoma' size='19'>
+*BugFix - Itemnamen unsichtbar
+*Fix - Pokémon hören nicht
+*LauncherFix - Installation bricht nicht mehr ab
+*Attacken zur hälfte Übersetzt
+*Pokémon vollständig übersetzt
+*Kampf Dialoge fast vollständig übersetzt.
+</font>
+</desc> 
+<link>https://pgstudios.2ix.de/forumdisplay.php?fid=3</link> 
+</patch> 
+<patch> 
+<title>11.06.21 | 02:18 Uhr</title> 
+<desc>
+<font face='Tahoma' size='19'>
+*BugFix - Itemnamen unsichtbar
+*Fix - Pokémon hören nicht
+*LauncherFix - Installation bricht nicht mehr ab
+</font>
+</desc> 
+<link>https://pgstudios.2ix.de/forumdisplay.php?fid=3</link> 
+</patch> 
+<patch> 
+<title>11.06.21 | Update</title> 
+<desc>
+<font face='Arial' size='19'>
+Version 0.0.0.1a - Tech Demo:
+Interner KI Test
+</font>
+</desc> 
+<link>https://pgstudios.2ix.de/forumdisplay.php?fid=3</link> 
+</patch>
